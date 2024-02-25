@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sav0vV
+- 👀 I’m interested in programming and videogames
+- 🌱 I’m currently learning C#
+- 📫 How to reach me discord - savov
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love dogs
