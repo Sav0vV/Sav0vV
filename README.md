@@ -2,5 +2,5 @@
 - 👀 I’m interested in programming and videogames
 - 🌱 I’m currently learning C#
 - 📫 How to reach me discord - savov
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs
